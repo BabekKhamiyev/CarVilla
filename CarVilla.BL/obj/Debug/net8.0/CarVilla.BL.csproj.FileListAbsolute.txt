@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\bin\Debug\net8.0\CarVilla.BL.deps.json
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\bin\Debug\net8.0\CarVilla.BL.dll
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\bin\Debug\net8.0\CarVilla.BL.pdb
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\bin\Debug\net8.0\CarVilla.DAL.dll
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\bin\Debug\net8.0\CarVilla.DAL.pdb
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.AssemblyInfo.cs
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\obj\Debug\net8.0\CarVilla.C951CE24.Up2Date
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.dll
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\obj\Debug\net8.0\refint\CarVilla.BL.dll
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.pdb
+C:\Users\User\source\repos\CarVilla\CarVilla.BL\obj\Debug\net8.0\ref\CarVilla.BL.dll

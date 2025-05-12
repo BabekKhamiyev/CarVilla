@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CarVilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\areas\\admin\\views\\car\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\areas\\admin\\views\\car\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\areas\\admin\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\areas\\admin\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\areas\\admin\\views\\car\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\areas\\admin\\views\\car\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D3B18-66A3-46ED-93E7-2606CF5F971F}|CarVilla.BL\\CarVilla.BL.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.bl\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D3B18-66A3-46ED-93E7-2606CF5F971F}|CarVilla.BL\\CarVilla.BL.csproj|solutionrelative:carvilla.bl\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D3B18-66A3-46ED-93E7-2606CF5F971F}|CarVilla.BL\\CarVilla.BL.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.bl\\exceptions\\carexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D3B18-66A3-46ED-93E7-2606CF5F971F}|CarVilla.BL\\CarVilla.BL.csproj|solutionrelative:carvilla.bl\\exceptions\\carexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\areas\\admin\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\areas\\admin\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\areas\\admin\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\areas\\admin\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC60F34-8783-4827-AD73-379D92C47470}|CarVilla.DAL\\CarVilla.DAL.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.dal\\viewmodels\\carcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC60F34-8783-4827-AD73-379D92C47470}|CarVilla.DAL\\CarVilla.DAL.csproj|solutionrelative:carvilla.dal\\viewmodels\\carcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC60F34-8783-4827-AD73-379D92C47470}|CarVilla.DAL\\CarVilla.DAL.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.dal\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC60F34-8783-4827-AD73-379D92C47470}|CarVilla.DAL\\CarVilla.DAL.csproj|solutionrelative:carvilla.dal\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D3B18-66A3-46ED-93E7-2606CF5F971F}|CarVilla.BL\\CarVilla.BL.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.bl\\carvilla.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE4D3B18-66A3-46ED-93E7-2606CF5F971F}|CarVilla.BL\\CarVilla.BL.csproj|solutionrelative:carvilla.bl\\carvilla.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
+              "RelativeDocumentMoniker": "CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
+              "RelativeToolTip": "CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:51:02.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Info.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Info.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Info.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Info.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T22:37:14.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Update.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Update.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T22:15:32.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Create.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:37:40.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.BL\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "CarVilla.BL\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.BL\\Services\\CarService.cs",
+              "RelativeToolTip": "CarVilla.BL\\Services\\CarService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:34:41.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:32:29.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarVilla.MVC\\Areas\\Admin\\Controllers\\CarController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:30:17.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.DAL\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarVilla.DAL\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.DAL\\Models\\Car.cs",
+              "RelativeToolTip": "CarVilla.DAL\\Models\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:40:30.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "CarVilla.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:16:16.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.BL\\Exceptions\\CarException.cs",
+              "RelativeDocumentMoniker": "CarVilla.BL\\Exceptions\\CarException.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.BL\\Exceptions\\CarException.cs",
+              "RelativeToolTip": "CarVilla.BL\\Exceptions\\CarException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:06:27.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:16:51.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:16:21.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:17:04.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAewLAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:16:42.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Program.cs",
+              "RelativeToolTip": "CarVilla.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:27:21.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACQBAAAAAAAAAAAAADMBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:31:54.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarVilla.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.BL\\CarVilla.BL.csproj",
+              "RelativeDocumentMoniker": "CarVilla.BL\\CarVilla.BL.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.BL\\CarVilla.BL.csproj",
+              "RelativeToolTip": "CarVilla.BL\\CarVilla.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T20:34:30.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:17:09.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:17:09.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

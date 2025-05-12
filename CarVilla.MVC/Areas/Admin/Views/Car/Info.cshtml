@@ -1,0 +1,63 @@
+﻿@model Car
+
+
+
+
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-secondary text-center rounded p-4">
+        <div class="d-flex align-items-center justify-content-between mb-4">
+            <h6 class="mb-0">Recent Salse</h6>
+            <a href="">Show All</a>
+        </div>
+        <div class="table-responsive">
+            <table class="table text-start align-middle table-bordered table-hover mb-0">
+                <thead>
+                    <tr class="text-white">
+                        <th scope="col"><input class="form-check-input" type="checkbox"></th>
+                        <th scope="col">#</th>
+                        <th scope="col">image</th>
+                        <th scope="col">brand</th>
+                        <th scope="col">Model</th>
+                        <th scope="col">buraxilis ili</th>
+                        <th scope="col">at gucu</th>
+                        <th scope="col">yuruyusu</th>
+                        <th scope="col">SuretlerQutusu</th>
+                        <th scope="col">qiymet</th>
+                        <th scope="col">haqqinda</th>
+                    </tr>
+                </thead>
+              
+
+                        <tbody>
+                            <tr>
+                                <td><input class="form-check-input" type="checkbox"></td>
+                                <td>@Model.Id</td>
+                        <td><img src="~/assets/UploadedImages/@Model.ImgUrl" /> </td>
+
+                                <td>@Model.Brand</td>
+                                <td>@Model.Model</td>
+                                <td>@Model.BuraxilisIli</td>
+                                <td>@Model.AtGucu</td>
+                                <td>@Model.Yurus</td>
+                                <td>@Model.SuretlerQutusu</td>
+                                <td>@Model.Price $</td>
+                                <td>@Model.Description </td>
+                                <td>
+                                    <form asp-action="Delete" asp-controller="Car" method="post" onsubmit="return confirm('Are you sure you want to delete this item?');">
+                                        <input type="hidden" name="id" value="@Model.Id" />
+                                        <button type="submit" class="btn btn-danger btn-rounded btn-fw">
+                                            Delete
+                                        </button>
+                                    </form>
+                                    <a asp-area="Admin" asp-controller="Car" asp-action="Update" asp-route-id="@Model.Id" class="btn btn-warning rounded-pill m-2">  Update</a>
+                                </td>
+                            </tr>
+
+                        </tbody>
+
+
+
+            </table>
+        </div>
+    </div>
+</div>

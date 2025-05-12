@@ -1,0 +1,47 @@
+﻿@model Car
+
+
+
+<form asp-area="Admin" asp-controller="Car" asp-action="Update">
+
+    <div class="mb-3">
+        <label class="form-label">ImgUrl</label>
+        <input asp-for="ImgUrl" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+
+    </div>
+    <div class="mb-3">
+        <label class="form-label">BuraxilisIli</label>
+        <input asp-for="BuraxilisIli" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Yurus</label>
+        <input asp-for="Yurus" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">AtGucu</label>
+        <input asp-for="AtGucu" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">SuretlerQutusu</label>
+        <input asp-for="SuretlerQutusu" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Brand</label>
+        <input asp-for="Brand" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Model</label>
+        <input asp-for="Model" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Price</label>
+        <input asp-for="Price" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Description</label>
+        <input asp-for="Description" class="form-control" id="exampleInputPassword1">
+    </div>
+
+    <input type="hidden"  value="@Model.Id" />
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

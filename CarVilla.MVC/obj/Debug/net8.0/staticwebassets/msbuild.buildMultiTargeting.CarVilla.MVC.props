@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CarVilla.MVC.props" />
+</Project>
