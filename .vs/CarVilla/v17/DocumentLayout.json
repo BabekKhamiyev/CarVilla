@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CarVilla\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC60F34-8783-4827-AD73-379D92C47470}|CarVilla.DAL\\CarVilla.DAL.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.dal\\contexts\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC60F34-8783-4827-AD73-379D92C47470}|CarVilla.DAL\\CarVilla.DAL.csproj|solutionrelative:carvilla.dal\\contexts\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\areas\\admin\\views\\car\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\areas\\admin\\views\\car\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{BE4D3B18-66A3-46ED-93E7-2606CF5F971F}|CarVilla.BL\\CarVilla.BL.csproj|solutionrelative:carvilla.bl\\carvilla.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|c:\\users\\user\\source\\repos\\carvilla\\carvilla.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F056F6F-7306-48A7-AD27-A4290AA0586F}|CarVilla.MVC\\CarVilla.MVC.csproj|solutionrelative:carvilla.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,23 +90,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CarCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
-              "RelativeDocumentMoniker": "CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
-              "RelativeToolTip": "CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.DAL\\Contexts\\AppDbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CarVilla.DAL\\Contexts\\AppDbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.DAL\\Contexts\\AppDbContext\\AppDbContext.cs",
+              "RelativeToolTip": "CarVilla.DAL\\Contexts\\AppDbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T22:51:02.058Z"
+              "WhenOpened": "2025-05-13T00:09:30.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Info.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Info.cshtml",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Info.cshtml",
@@ -110,12 +114,11 @@
               "RelativeToolTip": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Info.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T22:37:14.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T22:37:14.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Update.cshtml",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Update.cshtml",
@@ -127,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Create.cshtml",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Create.cshtml",
@@ -139,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CarService.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.BL\\Services\\CarService.cs",
               "RelativeDocumentMoniker": "CarVilla.BL\\Services\\CarService.cs",
@@ -151,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Index.cshtml",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Car\\Index.cshtml",
@@ -163,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CarController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Controllers\\CarController.cs",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Controllers\\CarController.cs",
@@ -175,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.DAL\\Models\\Car.cs",
               "RelativeDocumentMoniker": "CarVilla.DAL\\Models\\Car.cs",
@@ -187,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -199,7 +202,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarVilla.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarVilla.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:31:54.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
+              "RelativeDocumentMoniker": "CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
+              "RelativeToolTip": "CarVilla.DAL\\ViewModels\\CarCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:51:02.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CarException.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.BL\\Exceptions\\CarException.cs",
               "RelativeDocumentMoniker": "CarVilla.BL\\Exceptions\\CarException.cs",
@@ -211,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -223,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -235,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -247,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -259,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Program.cs",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Program.cs",
@@ -271,19 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CarVilla.MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CarVilla.MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACQBAAAAAAAAAAAAADMBAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T20:31:54.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "CarVilla.BL.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.BL\\CarVilla.BL.csproj",
               "RelativeDocumentMoniker": "CarVilla.BL\\CarVilla.BL.csproj",
@@ -295,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Views\\_ViewStart.cshtml",
@@ -307,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CarVilla.MVC\\Views\\_ViewImports.cshtml",
